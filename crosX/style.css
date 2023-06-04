@@ -1,0 +1,31 @@
+.bgimage{
+    width: 100%;
+    line-height: 10vh;
+    text-align: right;
+    background-image: url('BG image.png');
+}
+
+
+.myclass{
+    color: goldenrod;
+    
+}
+.myclass1{
+    color: white;
+    
+}
+.image1{
+    float: right;
+}
+#container {
+    display: flex;
+    justify-content: end; 
+  }
+p{
+    font-size: 20px;
+}
+  .myclass3{
+    color: rgb(240, 15, 15);
+    
+}
+
